@@ -1,2 +1,2 @@
 # Payment-Form
-This is me 1 st Git Repository
+This is my 1 st Git Repository
